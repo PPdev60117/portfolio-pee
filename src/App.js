@@ -69,7 +69,7 @@ function App() {
           </form>
 
           <div>
-            <h1>{Number(temp).toFixed(2)}</h1>
+            <h1>{Number(temp).toFixed(2)}C</h1>
             <p>{city} | {contry}</p>
           </div>
         </div>
